@@ -2,13 +2,11 @@
 
 ### Full Stack Developer
 
-I'm a Full Stack Developer working mainly with **Laravel, React, Node.js, Express.js, NestJS, PHP, and JavaScript**.
+Full Stack Developer focused on building **web applications, SaaS platforms, REST APIs, and business systems** using Laravel, React, Node.js, Express.js, NestJS, PHP, and JavaScript.
 
-I enjoy building web applications, REST APIs, SaaS platforms, and working on backend architecture and business-driven systems.
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-**Backend**
+### Backend
 
 * PHP
 * Laravel
@@ -18,39 +16,70 @@ I enjoy building web applications, REST APIs, SaaS platforms, and working on bac
 * REST APIs
 * MySQL
 * Redis
+* RabbitMQ
 
-**Frontend**
+### Frontend
 
 * React
 * JavaScript
+* TypeScript
 * HTML
 * CSS
 
-**Tools & Infrastructure**
+### Tools & Infrastructure
 
-* Git & GitHub
 * Docker
+* Git & GitHub
 * Linux / WSL
+* Nginx
 
-### 🚀 Currently Working On
+## 💼 Experience
 
-* Building applications with Laravel & React
-* Developing SaaS platforms
-* Working with Node.js backend technologies
-* Improving backend architecture and system design
-* Learning Domain-Driven Design and business analysis
+### Profit CRM — Backend / Full Stack Developer
 
-### 📌 Areas of Interest
+**October 2025 – Present**
+
+Working on a SaaS real-estate CRM platform used by **600+ real-estate companies**, including developers and brokers.
+
+* Developing and maintaining Laravel backend services.
+* Working with React on the V6 frontend.
+* Building and integrating REST APIs.
+* Working with microservices and RabbitMQ.
+* Developing new features and fixing production issues.
+* Refactoring existing code and optimizing database queries.
+* Contributing to the development of the next-generation V6 platform.
+
+## 🚀 Projects & Freelance Work
+
+### Arteria — Casting & Talent Management Platform
+
+**Freelance / Personal Project**
+
+* Laravel backend and REST API.
+* React frontend.
+* Authentication and user management.
+* Built a platform for managing casting and talent-related workflows.
+
+## 🎯 Currently Learning
+
+* Advanced Laravel Architecture
+* React
+* Node.js / NestJS
+* System Design
+* Domain-Driven Design (DDD)
+* Business Analysis for ERP & SaaS Systems
+
+## 📌 Areas of Interest
 
 * SaaS Applications
 * ERP Systems
 * Backend Architecture
 * REST APIs
+* Microservices
 * System Design
 
----
+## 📫 Connect With Me
 
-### 📫 Connect With Me
-
-* LinkedIn: [Your LinkedIn]
-* Email: [Your Email]
+* GitHub: [mahmoud9877](https://github.com/mahmoud9877)
+* LinkedIn: [Mahmoud Ali](https://www.linkedin.com/in/mahmoud-ali9877)
+* Email: [mahmoudali9877@gmail.com](mailto:mahmoudali9877@gmail.com)
