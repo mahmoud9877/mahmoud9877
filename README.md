@@ -35,7 +35,7 @@ Full Stack Developer focused on building **web applications, SaaS platforms, RES
 
 ## 💼 Experience
 
-### Profit CRM — Backend / Full Stack Developer
+### [Profit CRM](https://www.linkedin.com/company/profitcrm/) — Backend / Full Stack Developer
 
 **October 2025 – Present**
 
@@ -49,16 +49,17 @@ Working on a SaaS real-estate CRM platform used by **600+ real-estate companies*
 * Refactoring existing code and optimizing database queries.
 * Contributing to the development of the next-generation V6 platform.
 
-## 🚀 Projects & Freelance Work
+## 🚀 Projects
 
-### Arteria — Casting & Talent Management Platform
+### [ARTERIA](https://www.arteria-eg.com/) — Modeling, Casting & Creative Content Platform
 
 **Freelance / Personal Project**
 
-* Laravel backend and REST API.
-* React frontend.
-* Authentication and user management.
-* Built a platform for managing casting and talent-related workflows.
+* Developed the Laravel backend and REST API.
+* Built the React frontend.
+* Implemented authentication and user management.
+* Developed platform workflows for modeling, casting, and creative content.
+* Worked on API integration between the frontend and backend.
 
 ## 🎯 Currently Learning
 
