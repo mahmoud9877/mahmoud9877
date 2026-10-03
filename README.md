@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Ali 👋
 
-<!--
-**mahmoud9877/mahmoud9877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer working mainly with **Laravel, React, Node.js, Express.js, NestJS, PHP, and JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications, REST APIs, SaaS platforms, and working on backend architecture and business-driven systems.
+
+### 🛠️ Tech Stack
+
+**Backend**
+
+* PHP
+* Laravel
+* Node.js
+* Express.js
+* NestJS
+* REST APIs
+* MySQL
+* Redis
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML
+* CSS
+
+**Tools & Infrastructure**
+
+* Git & GitHub
+* Docker
+* Linux / WSL
+
+### 🚀 Currently Working On
+
+* Building applications with Laravel & React
+* Developing SaaS platforms
+* Working with Node.js backend technologies
+* Improving backend architecture and system design
+* Learning Domain-Driven Design and business analysis
+
+### 📌 Areas of Interest
+
+* SaaS Applications
+* ERP Systems
+* Backend Architecture
+* REST APIs
+* System Design
+
+---
+
+### 📫 Connect With Me
+
+* LinkedIn: [Your LinkedIn]
+* Email: [Your Email]
